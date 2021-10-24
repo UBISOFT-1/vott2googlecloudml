@@ -6,9 +6,26 @@ This Project has started as a feature request at Google to go ahead and improve 
 
 This Service Includes Python Modules, and Command Line Utlities along with a GUI, that helps fast track this into a fully featured Click and Go. It automatically uploads your images to a Google Cloud Storage Bucket that you can specify, whereby also converting the co-ordinates in the required Google Cloud Fashion.
 
+
 # Development Status
 
 Development is Underway and has begun at 2021-10-24 4:42 PM PST. 
+
+## Supported Platforms [Planned]
+
+The Final Product is going to be tested rigourously on the following Platforms.
+
+- MacOS
+- Windows 11/10
+- Ubuntu WSL 2.0 and Other Linux Distro's
+- Universal Python Binary `(.py)`
+
+Multi-Platform Support will help developers in order to take advantage of the feature pack in the OS of their Choice. 
+
+## Development Languages
+
+Currently in order to fast track the Project all development is going to be done in Python 3. Ensuring Easy to Read Code and Proper Comments and Documentation will be added as features are added to the Code. Merging Multiple Datasets is also one of the Ideas of the Project.
+
 
 
 # StackOverflow
