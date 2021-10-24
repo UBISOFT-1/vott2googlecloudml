@@ -1,5 +1,5 @@
 # vott2googlecloudml
-
+![Vott2GoogleCloudML Logo](https://i.imgur.com/N8lSEjW.png)
 # Introduction
 
 This Project has started as a feature request at Google to go ahead and improve their Online Labelling Service. Since, that does not do the trick, I have created this OpenSource Project to convert Vott Labelled Images to Google Cloud AutoML Format for a Single One Click Automatic Importing Service. 
